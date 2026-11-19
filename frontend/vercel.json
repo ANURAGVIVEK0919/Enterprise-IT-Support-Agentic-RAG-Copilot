@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://enterprise-it-support-agentic-rag-copilot-1xjc.onrender.com/api/:path*"
+    }
+  ]
+}
